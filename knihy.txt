@@ -1,0 +1,59 @@
+1;Dědeček;Božena Němcová;1855;Povídka;false;-
+2;RUR;Karel Čapek;1920;Sci-Fi drama;false;-
+3;Máj;Karel Hynek Mácha;1836;Lyricko-epická báseň;false;-
+4;Osudy dobrého vojáka Švejka;Jaroslav Hašek;1923;Satirický román;false;-
+5;1984;George Orwell;1949;Dystopický román;true;-
+6;Malý princ;Antoine de Saint-Exupéry;1943;Filozofická pohádka;false;-
+7;Fimfárum;Jan Werich;1960;Pohádky;false;-
+8;Válka s Mloky;Karel Čapek;1936;Sci-Fi román;false;-
+9;Kytice;Karel Jaromír Erben;1853;Sbírka balad;false;-
+10;Bílá nemoc;Karel Čapek;1937;Drama;false;-
+11;Farma zvířat;George Orwell;1945;Satirická novela;false;-
+12;Pán prstenů: Společenstvo prstenu;J.R.R. Tolkien;1954;Fantasy;false;-
+13;Hobit;J.R.R. Tolkien;1937;Fantasy;false;-
+14;Harry Potter a Kámen mudrců;J.K. Rowling;1997;Fantasy;false;-
+15;Krakatit;Karel Čapek;1922;Sci-Fi román;false;-
+16;Střenka;Viktor Dyk;1915;Román;false;-
+17;Krysař;Viktor Dyk;1915;Novela;false;-
+18;Romeo a Julie;William Shakespeare;1597;Tragédie;false;-
+19;Hamlet;William Shakespeare;1603;Tragédie;false;-
+20;Obrácení Ferdyše Pištory;František Langer;1929;Komedie;false;-
+21;Slepota;José Saramago;1995;Román;false;-
+22;Fahrenheit 451;Ray Bradbury;1953;Sci-Fi román;false;-
+23;Stopařův průvodce po Galaxii;Douglas Adams;1979;Sci-Fi komedie;false;-
+24;Sluha dvou pánů;Carlo Goldoni;1746;Komedie;false;-
+25;Lakomec;Molière;1668;Komedie;false;-
+26;Zločin a trest;Fjodor Michajlovič Dostojevskij;1866;Psychologický román;false;-
+27;Bratři Karamazovi;Fjodor Michajlovič Dostojevskij;1880;Psychologický román;false;-
+28;Válka a mír;Lev Nikolajevič Tolstoj;1869;Historický román;false;-
+29;Anna Karenina;Lev Nikolajevič Tolstoj;1877;Román;false;-
+30;Evžen Oněgin;Aleksandr Sergejevič Puškin;1833;Veršovaný román;false;-
+32;Obraz Doriana Graye;Oscar Wilde;1890;Filozofický román;false;-
+33;Ststařec a moře;Ernest Hemingway;1952;Novela;false;-
+34;Komu zvoní hrana;Ernest Hemingway;1940;Román;false;-
+35;Na západní frontě klid;Erich Maria Remarque;1929;Válečný román;false;-
+36;Tři kamarádi;Erich Maria Remarque;1936;Román;false;-
+37;Velký Gatsby;F. Scott Fitzgerald;1925;Román;false;-
+38;Kdo chytá v žitě;J.D. Salinger;1951;Román;false;-
+39;Proces;Franz Kafka;1925;Román;false;-
+40;Proměna;Franz Kafka;1915;Povídka;false;-
+41;Zámek;Franz Kafka;1926;Román;false;-
+42;Petr a Lucie;Romain Rolland;1920;Novela;false;-
+43;Jméno růže;Umberto Eco;1980;Historický detektivní román;false;-
+44;Foucaultovo kyvadlo;Umberto Eco;1988;Román;false;-
+45;Mechanický pomeranč;Anthony Burgess;1962;Dystopický román;false;-
+46;Hlava 22;Joseph Heller;1961;Satirický román;false;-
+47;Sto roků samoty;Gabriel García Márquez;1967;Magický realismus;false;-
+48;Kronika ohlášené smrti;Gabriel García Márquez;1981;Novela;false;-
+49;Saturnin;Zdeněk Jirotka;1942;Humoristický román;false;-
+50;Bylo nás pět;Karel Poláček;1946;Humoristický román;false;-
+51;Muži v odsazení;Karel Poláček;1931;Román;false;-
+52;Spalovač mrtvol;Ladislav Fuks;1967;Psychologický horor;true;16.09.2026
+53;Pan Theodor Mundstock;Ladislav Fuks;1963;Román;false;-
+54;Ostře sledované vlaky;Bohumil Hrabal;1965;Novela;false;-
+55;Obsluhoval jsem anglického krále;Bohumil Hrabal;1971;Román;false;-
+56;Postřižiny;Bohumil Hrabal;1976;Novela;false;-
+57;Žert;Milan Kundera;1967;Román;false;-
+58;Nesnesitelná lehkost bytí;Milan Kundera;1984;Román;false;-
+59;Směšné lásky;Milan Kundera;1970;Povídky;false;-
+60;Krysař a jiné povídky;Viktor Dyk;1915;Sbírka;false;-
