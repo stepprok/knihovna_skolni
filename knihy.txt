@@ -1,59 +1,350 @@
-1;Dědeček;Božena Němcová;1855;Povídka;false;-
-2;RUR;Karel Čapek;1920;Sci-Fi drama;false;-
-3;Máj;Karel Hynek Mácha;1836;Lyricko-epická báseň;false;-
-4;Osudy dobrého vojáka Švejka;Jaroslav Hašek;1923;Satirický román;false;-
-5;1984;George Orwell;1949;Dystopický román;true;-
-6;Malý princ;Antoine de Saint-Exupéry;1943;Filozofická pohádka;false;-
-7;Fimfárum;Jan Werich;1960;Pohádky;false;-
-8;Válka s Mloky;Karel Čapek;1936;Sci-Fi román;false;-
-9;Kytice;Karel Jaromír Erben;1853;Sbírka balad;false;-
-10;Bílá nemoc;Karel Čapek;1937;Drama;false;-
-11;Farma zvířat;George Orwell;1945;Satirická novela;false;-
-12;Pán prstenů: Společenstvo prstenu;J.R.R. Tolkien;1954;Fantasy;false;-
-13;Hobit;J.R.R. Tolkien;1937;Fantasy;false;-
-14;Harry Potter a Kámen mudrců;J.K. Rowling;1997;Fantasy;false;-
-15;Krakatit;Karel Čapek;1922;Sci-Fi román;false;-
-16;Střenka;Viktor Dyk;1915;Román;false;-
-17;Krysař;Viktor Dyk;1915;Novela;false;-
-18;Romeo a Julie;William Shakespeare;1597;Tragédie;false;-
-19;Hamlet;William Shakespeare;1603;Tragédie;false;-
-20;Obrácení Ferdyše Pištory;František Langer;1929;Komedie;false;-
-21;Slepota;José Saramago;1995;Román;false;-
-22;Fahrenheit 451;Ray Bradbury;1953;Sci-Fi román;false;-
-23;Stopařův průvodce po Galaxii;Douglas Adams;1979;Sci-Fi komedie;false;-
-24;Sluha dvou pánů;Carlo Goldoni;1746;Komedie;false;-
-25;Lakomec;Molière;1668;Komedie;false;-
-26;Zločin a trest;Fjodor Michajlovič Dostojevskij;1866;Psychologický román;false;-
-27;Bratři Karamazovi;Fjodor Michajlovič Dostojevskij;1880;Psychologický román;false;-
-28;Válka a mír;Lev Nikolajevič Tolstoj;1869;Historický román;false;-
+5;1984;George Orwell;1949;Dystopický román;true;31.12.2026
+220;20 000 mil pod mořem;Jules Verne;1870;Dobrodružný;false;-
+102;2001: Vesmírná odysea;Arthur C. Clarke;1968;Sci-Fi;false;-
+116;Aaliance;Veronica Roth;2013;Dystopie;false;-
+193;Agnes Grey;Anne Brontëová;1847;Román;false;-
+287;Andělská tvář;Hana Marie Kornerová;1998;Romantika;false;-
+129;Andělé a démoni;Dan Brown;2000;Thriller;false;-
+261;Anekdota;Milan Kundera;1963;Povídka;false;-
 29;Anna Karenina;Lev Nikolajevič Tolstoj;1877;Román;false;-
-30;Evžen Oněgin;Aleksandr Sergejevič Puškin;1833;Veršovaný román;false;-
-32;Obraz Doriana Graye;Oscar Wilde;1890;Filozofický román;false;-
-33;Ststařec a moře;Ernest Hemingway;1952;Novela;false;-
-34;Komu zvoní hrana;Ernest Hemingway;1940;Román;false;-
-35;Na západní frontě klid;Erich Maria Remarque;1929;Válečný román;false;-
-36;Tři kamarádi;Erich Maria Remarque;1936;Román;false;-
-37;Velký Gatsby;F. Scott Fitzgerald;1925;Román;false;-
-38;Kdo chytá v žitě;J.D. Salinger;1951;Román;false;-
-39;Proces;Franz Kafka;1925;Román;false;-
-40;Proměna;Franz Kafka;1915;Povídka;false;-
-41;Zámek;Franz Kafka;1926;Román;false;-
-42;Petr a Lucie;Romain Rolland;1920;Novela;false;-
-43;Jméno růže;Umberto Eco;1980;Historický detektivní román;false;-
-44;Foucaultovo kyvadlo;Umberto Eco;1988;Román;false;-
-45;Mechanický pomeranč;Anthony Burgess;1962;Dystopický román;false;-
-46;Hlava 22;Joseph Heller;1961;Satirický román;false;-
-47;Sto roků samoty;Gabriel García Márquez;1967;Magický realismus;false;-
-48;Kronika ohlášené smrti;Gabriel García Márquez;1981;Novela;false;-
-49;Saturnin;Zdeněk Jirotka;1942;Humoristický román;false;-
+186;Arogance a předsudek;Jane Austen;1813;Romantika;false;-
+271;Aztékové;Gary Jennings;1980;Historický;false;-
+1;Babička;Božena Němcová;1855;Povídka;true;-
+328;Balady a romance;Jan Neruda;1883;Poezie;false;-
+215;Barva z kosmu;H.P. Lovecraft;1927;Horor;false;-
+89;Božský imperátor Duny;Frank Herbert;1981;Sci-Fi;false;-
+311;Bratrstvo I;Alois Jirásek;1899;Historický;false;-
+312;Bratrstvo II;Alois Jirásek;1904;Historický;false;-
+313;Bratrstvo III;Alois Jirásek;1909;Historický;false;-
+27;Bratři Karamazovi;Fjodor Michajlovič Dostojevskij;1880;Psychologický román;false;-
+72;Brisingr;Christopher Paolini;2008;Fantasy;false;-
 50;Bylo nás pět;Karel Poláček;1946;Humoristický román;false;-
-51;Muži v odsazení;Karel Poláček;1931;Román;false;-
-52;Spalovač mrtvol;Ladislav Fuks;1967;Psychologický horor;true;16.09.2026
-53;Pan Theodor Mundstock;Ladislav Fuks;1963;Román;false;-
-54;Ostře sledované vlaky;Bohumil Hrabal;1965;Novela;false;-
-55;Obsluhoval jsem anglického krále;Bohumil Hrabal;1971;Román;false;-
-56;Postřižiny;Bohumil Hrabal;1976;Novela;false;-
-57;Žert;Milan Kundera;1967;Román;false;-
-58;Nesnesitelná lehkost bytí;Milan Kundera;1984;Román;false;-
-59;Směšné lásky;Milan Kundera;1970;Povídky;false;-
+235;Bídníci;Victor Hugo;1862;Historický;false;-
+171;Bílá garda;Michail Bulgakov;1925;Román;false;-
+10;Bílá nemoc;Karel Čapek;1937;Drama;false;-
+147;Běžecký muž;Stephen King;1982;Sci-Fi;false;-
+251;Břicho Paříže;Émile Zola;1873;Naturalismus;false;-
+139;Carrie;Stephen King;1974;Horor;false;-
+221;Cesta do středu Země;Jules Verne;1864;Dobrodružný;false;-
+222;Cesta kolem světa za 80 dní;Jules Verne;1872;Dobrodružný;false;-
+236;Chrám Matky Boží v Paříži;Victor Hugo;1831;Historický;false;-
+321;Chudí lidé;Božena Němcová;1856;Povídka;false;-
+323;Chyže pod horami;Božena Němcová;1858;Povídka;false;-
+300;Cirkus Humberto;Eduard Bass;1941;Román;false;-
+246;Citová výchova;Gustave Flaubert;1869;Román;false;-
+151;Cizinec;Albert Camus;1942;Existencialismus;false;-
+150;Dallas 63;Stephen King;2011;Sci-Fi;false;-
+165;Demian;Hermann Hesse;1919;Román;false;-
+203;Deset malých černoušků;Agatha Christie;1939;Detektivka;false;-
+237;Devadesát tři;Victor Hugo;1874;Historický;false;-
+131;Digitální pevnost;Dan Brown;1998;Thriller;false;-
+114;Divergence;Veronica Roth;2011;Dystopie;false;-
+320;Divá Bára;Božena Němcová;1856;Povídka;false;-
+148;Dlouhá procházka;Stephen King;1979;Dystopie;false;-
+198;Dobrodružství Sherlocka Holmese;Arthur Conan Doyle;1892;Detektivka;false;-
+322;Dobrý člověk;Božena Němcová;1858;Povídka;false;-
+309;Dogmatika;Alois Jirásek;1890;Historický;false;-
+161;Doktor Faustus;Thomas Mann;1947;Román;false;-
+145;Doktor Spánek;Stephen King;2013;Horor;false;-
+175;Doktor Živago;Boris Pasternak;1957;Román;false;-
+195;Dracula;Bram Stoker;1897;Horor;false;-
+94;Druhá Nadace;Isaac Asimov;1953;Sci-Fi;false;-
+86;Duna;Frank Herbert;1965;Sci-Fi;false;-
+229;Dva roky prázdnin;Jules Verne;1888;Dobrodružný;false;-
+238;Dělníci moře;Victor Hugo;1866;Román;false;-
+88;Děti Duny;Frank Herbert;1976;Sci-Fi;false;-
+226;Děti kapitána Granta;Jules Verne;1868;Dobrodružný;false;-
+71;Eldest;Christopher Paolini;2005;Fantasy;false;-
+188;Emma;Jane Austen;1815;Romantika;false;-
+70;Eragon;Christopher Paolini;2002;Fantasy;false;-
+30;Evžen Oněgin;Aleksandr Sergejevič Puškin;1833;Veršovaný román;false;-
+304;F. L. Věk I;Alois Jirásek;1888;Historický;false;-
+305;F. L. Věk II;Alois Jirásek;1892;Historický;false;-
+306;F. L. Věk III;Alois Jirásek;1897;Historický;false;-
+307;F. L. Věk IV;Alois Jirásek;1904;Historický;false;-
+308;F. L. Věk V;Alois Jirásek;1906;Historický;false;-
+22;Fahrenheit 451;Ray Bradbury;1953;Sci-Fi román;false;-
+285;Faraon;Bolesław Prus;1895;Historický;false;-
+11;Farma zvířat;George Orwell;1945;Satirická novela;false;-
+106;Fiasco;Stanisław Lem;1986;Sci-Fi;false;-
+343;Fidlovačka;Josef Kajetán Tyl;1834;Drama;false;-
+7;Fimfárum;Jan Werich;1960;Pohádky;false;-
+44;Foucaultovo kyvadlo;Umberto Eco;1988;Román;false;-
+194;Frankenstein;Mary Shelleyová;1818;Horor;false;-
+157;Fyzikové;Friedrich Dürrenmatt;1962;Drama;false;-
+274;Gai-Jin;James Clavell;1993;Historický;false;-
+350;Gazdina roba;Gabriela Preissová;1889;Drama;false;-
+250;Germinal;Émile Zola;1885;Naturalismus;false;-
+19;Hamlet;William Shakespeare;1603;Tragédie;false;-
+67;Harry Potter a Fénixův řád;J.K. Rowling;2003;Fantasy;false;-
+14;Harry Potter a Kámen mudrců;J.K. Rowling;1997;Fantasy;false;-
+66;Harry Potter a Ohnivý pohár;J.K. Rowling;2000;Fantasy;false;-
+68;Harry Potter a Princ dvojí krve;J.K. Rowling;2005;Fantasy;false;-
+69;Harry Potter a Relikvie smrti;J.K. Rowling;2007;Fantasy;false;-
+64;Harry Potter a Tajemná komnata;J.K. Rowling;1998;Fantasy;false;-
+65;Harry Potter a Vězeň z Azkabanu;J.K. Rowling;1999;Fantasy;false;-
+46;Hlava 22;Joseph Heller;1961;Satirický román;false;-
+13;Hobit;J.R.R. Tolkien;1937;Fantasy;false;-
+290;Hordubal;Karel Čapek;1933;Román;false;-
+127;Hostitel;Stephenie Meyer;2008;Sci-Fi;false;-
+164;Hra skleněných perel;Hermann Hesse;1943;Román;false;-
+231;Hrabě Monte Cristo;Alexandre Dumas;1844;Historický;false;-
+269;Hrátky s čertem;Jan Drda;1946;Komedie;false;-
+117;Hunger Games: Aréna smrti;Suzanne Collins;2008;Dystopie;false;-
+119;Hunger Games: Síla vzdoru;Suzanne Collins;2010;Dystopie;false;-
+118;Hunger Games: Vražedná pomsta;Suzanne Collins;2009;Dystopie;false;-
+331;Hřbitovní kvítí;Jan Neruda;1858;Poezie;false;-
+133;Inferno;Dan Brown;2013;Thriller;false;-
+73;Inheritance;Christopher Paolini;2011;Fantasy;false;-
+344;Jan Hus;Josef Kajetán Tyl;1848;Drama;false;-
+316;Jan Hus;Alois Jirásek;1911;Drama;false;-
+318;Jan Roháč;Alois Jirásek;1914;Drama;false;-
+317;Jan Žižka;Alois Jirásek;1903;Drama;false;-
+191;Jana Eyrová;Charlotte Brontëová;1847;Román;false;-
+172;Jeden den Ivana Denisoviče;Aleksandr Solženicyn;1962;Novela;false;-
+277;Jeho královská Výsost;Mika Waltari;1959;Historický;false;-
+43;Jméno růže;Umberto Eco;1980;Historický detektivní román;false;-
+95;Já, Robot;Isaac Asimov;1950;Sci-Fi;false;-
+90;Kacíři Duny;Frank Herbert;1984;Sci-Fi;false;-
+91;Kapitula: Duna;Frank Herbert;1985;Sci-Fi;false;-
+210;Karavan;Agatha Christie;1946;Detektivka;false;-
+324;Karlštejn;Jaroslav Vrchlický;1884;Drama;false;-
+258;Kartouza parmská;Stendhal;1839;Román;false;-
+38;Kdo chytá v žitě;J.D. Salinger;1951;Román;false;-
+288;Kladivo na čarodějnice;Václav Kaplický;1963;Historický;false;-
+299;Klapzubova jedenactka;Eduard Bass;1922;Humoristický;false;-
+263;Klouzání;Bohumil Hrabal;1966;Povídky;false;-
+262;Kniha smíchu a zapomnění;Milan Kundera;1979;Román;false;-
+34;Komu zvoní hrana;Ernest Hemingway;1940;Román;false;-
+104;Konec dětství;Arthur C. Clarke;1953;Sci-Fi;false;-
+160;Kouzelný vrch;Thomas Mann;1924;Román;false;-
+15;Krakatit;Karel Čapek;1922;Sci-Fi román;false;-
+48;Kronika ohlášené smrti;Gabriel García Márquez;1981;Novela;false;-
+345;Krvavé křtiny;Josef Kajetán Tyl;1848;Drama;false;-
+17;Krysař;Viktor Dyk;1915;Novela;false;-
 60;Krysař a jiné povídky;Viktor Dyk;1915;Sbírka;false;-
+234;Královna Margot;Alexandre Dumas;1845;Historický;false;-
+253;Kulička;Guy de Maupassant;1880;Povídka;false;-
+107;Kyberiáda;Stanisław Lem;1965;Sci-Fi;false;-
+9;Kytice;Karel Jaromír Erben;1853;Sbírka balad;false;-
+113;Labyrint: Poslední zkázka;James Dashner;2011;Sci-Fi;false;-
+112;Labyrint: Spáleniště;James Dashner;2010;Sci-Fi;false;-
+111;Labyrint: Útěk;James Dashner;2009;Sci-Fi;false;-
+25;Lakomec;Molière;1668;Komedie;false;-
+242;Lesk a bída kurtizán;Honoré de Balzac;1847;Román;false;-
+346;Lesní panna;Josef Kajetán Tyl;1850;Drama;false;-
+301;Lidé z maringotek;Eduard Bass;1942;Povídky;false;-
+286;Loutka;Bolesław Prus;1890;Román;false;-
+185;Lovcovy zápisky;Ivan Sergejevič Turgeněv;1852;Povídky;false;-
+302;Lucerna;Alois Jirásek;1905;Drama;false;-
+252;Lurdy;Émile Zola;1894;Román;false;-
+6;Malý princ;Antoine de Saint-Exupéry;1943;Filozofická pohádka;false;-
+189;Mansfieldské panství;Jane Austen;1814;Romantika;false;-
+338;Maryša;Alois a Vilém Mrštíkové;1894;Drama;false;-
+109;Marťanská kronika;Ray Bradbury;1950;Sci-Fi;false;-
+178;Matka;Maxim Gorkij;1906;Román;false;-
+295;Matka;Karel Čapek;1938;Drama;false;-
+45;Mechanický pomeranč;Anthony Burgess;1962;Dystopický román;false;-
+254;Miláček;Guy de Maupassant;1885;Román;false;-
+138;Misery;Stephen King;1987;Horor;false;-
+169;Mistr a Markétka;Michail Bulgakov;1967;Magický realismus;false;-
+152;Mor;Albert Camus;1947;Existencialismus;false;-
+140;Mrtvá zóna;Stephen King;1979;Horor;false;-
+181;Mrtvé duše;Nikolaj Vasiljevič Gogol;1842;Satira;false;-
+232;Muž se železnou maskou;Alexandre Dumas;1850;Historický;false;-
+239;Muž, který se směje;Victor Hugo;1869;Román;false;-
+51;Muži v odsazení;Karel Poláček;1931;Román;false;-
+3;Máj;Karel Hynek Mácha;1836;Lyricko-epická báseň;false;-
+153;Mýtus o Sisyfovi;Albert Camus;1942;Esej;false;-
+268;Městečko na dlani;Jan Drda;1942;Román;false;-
+266;Městečko, kde se zastavil čas;Bohumil Hrabal;1973;Novela;false;-
+101;Město a hvězdy;Arthur C. Clarke;1956;Sci-Fi;false;-
+120;Město z kostí;Cassandra Clare;2007;Fantasy;false;-
+121;Město z popela;Cassandra Clare;2008;Fantasy;false;-
+122;Město ze skla;Cassandra Clare;2009;Fantasy;false;-
+337;Měšťáci;Jakub Arbes;1879;Román;false;-
+179;Na dně;Maxim Gorkij;1902;Drama;false;-
+192;Na Větrné hůrce;Emily Brontëová;1847;Román;false;-
+35;Na západní frontě klid;Erich Maria Remarque;1929;Válečný román;false;-
+92;Nadace;Isaac Asimov;1951;Sci-Fi;false;-
+93;Nadace a Říše;Isaac Asimov;1952;Sci-Fi;false;-
+97;Nahé slunce;Isaac Asimov;1957;Sci-Fi;false;-
+249;Nana;Émile Zola;1880;Naturalismus;false;-
+347;Naši furianti;Ladislav Stroupežnický;1887;Drama;false;-
+208;Není úniku;Agatha Christie;1944;Detektivka;false;-
+108;Nepřemožitelný;Stanisław Lem;1964;Sci-Fi;false;-
+259;Nesmrtelnost;Milan Kundera;1990;Román;false;-
+58;Nesnesitelná lehkost bytí;Milan Kundera;1984;Román;false;-
+100;Neuromancer;William Gibson;1984;Cyberpunk;false;-
+218;Neviditelný muž;H.G. Wells;1897;Sci-Fi;false;-
+166;Nevolnost;Jean-Paul Sartre;1938;Existencialismus;false;-
+334;Newtonův mozkový institut;Jakub Arbes;1877;Romaneto;false;-
+149;Nezbytné věci;Stephen King;1991;Horor;false;-
+275;Noble House;James Clavell;1981;Historický;false;-
+325;Noc na Karlštejně;Jaroslav Vrchlický;1884;Drama;false;-
+183;Nosek;Nikolaj Vasiljevič Gogol;1836;Povídka;false;-
+124;Nový měsíc;Stephenie Meyer;2006;Romantika;false;-
+158;Návštěva staré dámy;Friedrich Dürrenmatt;1956;Drama;false;-
+256;Náš dům;Guy de Maupassant;1890;Povídka;false;-
+270;Němá barikáda;Jan Drda;1946;Povídky;false;-
+32;Obraz Doriana Graye;Oscar Wilde;1890;Filozofický román;false;-
+20;Obrácení Ferdyše Pištory;František Langer;1929;Komedie;false;-
+55;Obsluhoval jsem anglického krále;Bohumil Hrabal;1971;Román;false;-
+292;Obyčejný život;Karel Čapek;1934;Román;false;-
+96;Ocelové jeskyně;Isaac Asimov;1954;Sci-Fi;false;-
+227;Ocelové město;Jules Verne;1879;Dobrodružný;false;-
+282;Ohněm a mečem;Henryk Sienkiewicz;1884;Historický;false;-
+31;Omyly;Oskar Wilde;1890;Román;false;-
+219;Ostrov doktora Moreaua;H.G. Wells;1896;Sci-Fi;false;-
+197;Ostrov pokladů;R.L. Stevenson;1883;Dobrodružný;false;-
+54;Ostře sledované vlaky;Bohumil Hrabal;1965;Novela;false;-
+177;Osud člověka;Michail Šolochov;1956;Povídka;false;-
+4;Osudy dobrého vojáka Švejka;Jaroslav Hašek;1923;Satirický román;false;-
+136;Osvícení;Stephen King;1977;Horor;false;-
+184;Otcové a děti;Ivan Sergejevič Turgeněv;1862;Román;false;-
+240;Otec Goriot;Honoré de Balzac;1835;Román;false;-
+53;Pan Theodor Mundstock;Ladislav Fuks;1963;Román;false;-
+284;Pan Wolodyjowski;Henryk Sienkiewicz;1888;Historický;false;-
+245;Paní Bovaryová;Gustave Flaubert;1857;Román;false;-
+207;Past na myši;Agatha Christie;1952;Drama;false;-
+228;Patnáctiletý kapitán;Jules Verne;1878;Dobrodružný;false;-
+130;Pavučina lží;Dan Brown;2001;Thriller;false;-
+199;Pes baskervillský;Arthur Conan Doyle;1902;Detektivka;false;-
+255;Petr a Jan;Guy de Maupassant;1887;Román;false;-
+42;Petr a Lucie;Romain Rolland;1920;Novela;false;-
+141;Pistolník;Stephen King;1982;Fantasy;false;-
+156;Plešatá zpěvačka;Eugène Ionesco;1950;Absurdní drama;false;-
+182;Plášť;Nikolaj Vasiljevič Gogol;1842;Povídka;false;-
+142;Pod kupolí;Stephen King;2009;Sci-Fi;false;-
+196;Podivuhodný případ Dr. Jekylla a mr. Hyda;R.L. Stevenson;1886;Horor;false;-
+341;Pohádka máje;Vilém Mrštík;1897;Román;false;-
+260;Pomalost;Milan Kundera;1995;Román;false;-
+56;Postřižiny;Bohumil Hrabal;1976;Novela;false;-
+283;Potopa;Henryk Sienkiewicz;1886;Historický;false;-
+329;Povídky malostranské;Jan Neruda;1878;Povídky;false;-
+294;Povídky z druhé kapsy;Karel Čapek;1929;Povídky;false;-
+293;Povídky z jedné kapsy;Karel Čapek;1929;Povídky;false;-
+298;Povídání o pejskovi a kočičce;Josef Čapek;1929;Pohádky;false;-
+291;Povětroň;Karel Čapek;1934;Román;false;-
+39;Proces;Franz Kafka;1925;Román;false;-
+144;Prokletí Salemu;Stephen King;1975;Horor;false;-
+40;Proměna;Franz Kafka;1915;Povídka;false;-
+332;Prosté motivy;Jan Neruda;1883;Poezie;false;-
+310;Proti všem;Alois Jirásek;1893;Historický;false;-
+314;Psohlavci;Alois Jirásek;1884;Historický;false;-
+170;Psí srdce;Michail Bulgakov;1925;Satira;false;-
+279;Pád Bělehradu;Mika Waltari;1952;Historický;false;-
+61;Pán prstenů: Dvě věže;J.R.R. Tolkien;1954;Fantasy;false;-
+62;Pán prstenů: Návrat krále;J.R.R. Tolkien;1955;Fantasy;false;-
+12;Pán prstenů: Společenstvo prstenu;J.R.R. Tolkien;1954;Fantasy;false;-
+76;Píseň ledu a ohně: Bouře mečů;George R.R. Martin;2000;Fantasy;false;-
+77;Píseň ledu a ohně: Hostina pro vrány;George R.R. Martin;2005;Fantasy;false;-
+74;Píseň ledu a ohně: Hra o trůny;George R.R. Martin;1996;Fantasy;false;-
+75;Píseň ledu a ohně: Střet králů;George R.R. Martin;1998;Fantasy;false;-
+78;Píseň ledu a ohně: Tadec s draky;George R.R. Martin;2011;Fantasy;false;-
+327;Písně kosmické;Jan Neruda;1878;Poezie;false;-
+190;Pýcha a předsudek;Jane Austen;1813;Romantika;false;-
+154;Pěna dní;Boris Vian;1947;Román;false;-
+224;Pět neděl v balónu;Jules Verne;1863;Dobrodružný;false;-
+264;Příliš hlučná samota;Bohumil Hrabal;1976;Novela;false;-
+134;Původ;Dan Brown;2017;Thriller;false;-
+281;Quo Vadis;Henryk Sienkiewicz;1896;Historický;false;-
+174;Rakovina;Aleksandr Solženicyn;1968;Román;false;-
+180;Revizor;Nikolaj Vasiljevič Gogol;1836;Komedie;false;-
+115;Rezistence;Veronica Roth;2012;Dystopie;false;-
+99;Roboti a Impérium;Isaac Asimov;1985;Sci-Fi;false;-
+98;Robotí úsvit;Isaac Asimov;1983;Sci-Fi;false;-
+339;Rok na vsi;Alois a Vilém Mrštíkové;1904;Román;false;-
+18;Romeo a Julie;William Shakespeare;1597;Tragédie;false;-
+126;Rozbřesk;Stephenie Meyer;2008;Romantika;false;-
+187;Rozum a cit;Jane Austen;1811;Romantika;false;-
+2;RUR;Karel Čapek;1920;Sci-Fi drama;false;-
+280;Rytíři Řádu křížového;Henryk Sienkiewicz;1900;Historický;false;-
+168;S vyloučením veřejnosti;Jean-Paul Sartre;1944;Drama;false;-
+247;Salambo;Gustave Flaubert;1862;Historický;false;-
+340;Santa Lucia;Vilém Mrštík;1893;Román;false;-
+49;Saturnin;Zdeněk Jirotka;1942;Humoristický román;false;-
+209;Schůzka se smrtí;Agatha Christie;1938;Detektivka;false;-
+326;Selské balady;Jaroslav Vrchlický;1885;Poezie;false;-
+243;Sestřenice Běta;Honoré de Balzac;1846;Román;false;-
+103;Setkání s Rámou;Arthur C. Clarke;1973;Sci-Fi;false;-
+163;Siddhártha;Hermann Hesse;1922;Filozofický román;false;-
+63;Silmarillion;J.R.R. Tolkien;1977;Fantasy;false;-
+276;Sinuhet, Egypťan;Mika Waltari;1945;Historický;false;-
+110;Sirotčinec slečny Peregrinové;Ransom Riggs;2011;Fantasy;false;-
+265;Slavnosti sněženek;Bohumil Hrabal;1978;Povídky;false;-
+21;Slepota;José Saramago;1995;Román;false;-
+24;Sluha dvou pánů;Carlo Goldoni;1746;Komedie;false;-
+205;Smrt na Nilu;Agatha Christie;1937;Detektivka;false;-
+159;Smrt v Benátkách;Thomas Mann;1912;Novela;false;-
+59;Směšné lásky;Milan Kundera;1970;Povídky;false;-
+211;Sny v domě čarodějnic;H.P. Lovecraft;1933;Horor;false;-
+105;Solaris;Stanisław Lem;1961;Sci-Fi;false;-
+173;Souostroví GULAG;Aleksandr Solženicyn;1973;Historie;false;-
+52;Spalovač mrtvol;Ladislav Fuks;1967;Psychologický horor;false;-
+87;Spasitel Duny;Frank Herbert;1969;Sci-Fi;false;-
+303;Staré pověsti české;Alois Jirásek;1894;Pověsti;false;-
+33;Stařec a moře;Ernest Hemingway;1952;Novela;false;-
+162;Steppenwolf;Hermann Hesse;1927;Román;false;-
+123;Stmívání;Stephenie Meyer;2005;Romantika;false;-
+47;Sto roků samoty;Gabriel García Márquez;1967;Magický realismus;false;-
+23;Stopařův průvodce po Galaxii;Douglas Adams;1979;Sci-Fi komedie;false;-
+342;Strakonický dudák;Josef Kajetán Tyl;1847;Drama;false;-
+216;Stroj času;H.G. Wells;1895;Sci-Fi;false;-
+200;Studie v šarlatové;Arthur Conan Doyle;1887;Detektivka;false;-
+297;Stín;Josef Čapek;1930;Povídka;false;-
+214;Stín nad Innsmouthem;H.P. Lovecraft;1936;Horor;false;-
+16;Střenka;Viktor Dyk;1915;Román;false;-
+333;Svatý Xaverius;Jakub Arbes;1873;Romaneto;false;-
+146;Svědectví;Stephen King;1978;Postapo;false;-
+273;Tai-Pan;James Clavell;1966;Historický;false;-
+223;Tajuplný ostrov;Jules Verne;1875;Dobrodružný;false;-
+267;Taneční hodiny pro starší a pokročilé;Bohumil Hrabal;1964;Novela;false;-
+315;Temno;Alois Jirásek;1914;Historický;false;-
+278;Temná hvězda;Mika Waltari;1938;Román;false;-
+176;Tichý Don;Michail Šolochov;1928;Historický román;false;-
+135;To;Stephen King;1986;Horor;false;-
+36;Tři kamarádi;Erich Maria Remarque;1936;Román;false;-
+230;Tři mušketýři;Alexandre Dumas;1844;Historický;false;-
+335;Ukřižovaná;Jakub Arbes;1876;Romaneto;false;-
+213;V horách šílenství;H.P. Lovecraft;1936;Horor;false;-
+319;V zámku a v podzámčí;Božena Němcová;1856;Povídka;false;-
+37;Velký Gatsby;F. Scott Fitzgerald;1925;Román;false;-
+349;Vojnarka;Alois Jirásek;1890;Drama;false;-
+212;Volání Cthulhu;H.P. Lovecraft;1928;Horor;false;-
+206;Vražda Rogera Ackroyda;Agatha Christie;1926;Detektivka;false;-
+204;Vražda v Orient-expresu;Agatha Christie;1934;Detektivka;false;-
+28;Válka a mír;Lev Nikolajevič Tolstoj;1869;Historický román;false;-
+8;Válka s Mloky;Karel Čapek;1936;Sci-Fi román;false;-
+217;Válka světů;H.G. Wells;1898;Sci-Fi;false;-
+248;Zabiják;Émile Zola;1877;Naturalismus;false;-
+81;Zaklínač: Krev elfů;Andrzej Sapkowski;1994;Fantasy;false;-
+83;Zaklínač: Křest ohněm;Andrzej Sapkowski;1996;Fantasy;false;-
+80;Zaklínač: Meč osudu;Andrzej Sapkowski;1992;Fantasy;false;-
+85;Zaklínač: Paní jezera;Andrzej Sapkowski;1999;Fantasy;false;-
+79;Zaklínač: Poslední přání;Andrzej Sapkowski;1993;Fantasy;false;-
+84;Zaklínač: Věž vlaštovky;Andrzej Sapkowski;1997;Fantasy;false;-
+82;Zaklínač: Čas opovržení;Andrzej Sapkowski;1995;Fantasy;false;-
+289;Zapomenutí světla;Jakub Deml;1934;Esej;false;-
+125;Zatmění;Stephenie Meyer;2007;Romantika;false;-
+225;Ze Země na Měsíc;Jules Verne;1865;Dobrodružný;false;-
+296;Ze života hmyzu;Karel a Josef Čapkové;1922;Drama;false;-
+143;Zelená míle;Stephen King;1996;Drama;false;-
+167;Zeď;Jean-Paul Sartre;1939;Povídky;false;-
+26;Zločin a trest;Fjodor Michajlovič Dostojevskij;1866;Psychologický román;false;-
+202;Znamení čtyř;Arthur Conan Doyle;1890;Detektivka;false;-
+330;Zpěvy páteční;Jan Neruda;1896;Poezie;false;-
+241;Ztracené iluze;Honoré de Balzac;1843;Román;false;-
+132;Ztracený symbol;Dan Brown;2009;Thriller;false;-
+348;Zvíkovský rarášek;Ladislav Stroupežnický;1883;Drama;false;-
+41;Zámek;Franz Kafka;1926;Román;false;-
+201;Údolí strachu;Arthur Conan Doyle;1915;Detektivka;false;-
+155;Čekání na Godota;Samuel Beckett;1952;Absurdní drama;false;-
+233;Černý tulipán;Alexandre Dumas;1850;Historický;false;-
+257;Červený a černý;Stendhal;1830;Román;false;-
+137;Řbitov zvířátek;Stephen King;1983;Horor;false;-
+244;Šagrénová kůže;Honoré de Balzac;1831;Román;false;-
+336;Ševcovský učedník;Jakub Arbes;1884;Román;false;-
+128;Šifra mistra Leonarda;Dan Brown;2003;Thriller;false;-
+272;Šógun;James Clavell;1975;Historický;false;-
+57;Žert;Milan Kundera;1967;Román;false;-
