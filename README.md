@@ -192,6 +192,4 @@ Poznámka: doporučeno vytvořit build skript nebo použít Maven/Gradle pro lep
 Co dělat dál:
 - Pokud chcete, můžu README upravit tak, aby obsahoval konkrétní jména autorů, detailní UML diagram nebo přesné signatury metod podle zdrojového kódu. Napište, kterou úroveň detailu preferujete.
 
----
-
-Co jsem upravil: kompletní dokumentaci projektu a rozšíření sekcí analýzy, instalace, architektury a možných rozšíření. Pokud chcete, mohu tento obsah také převést do češtiny formálnějšího stylu nebo přidat konkrétní příklady kódu a UML diagramy.
+--- 
