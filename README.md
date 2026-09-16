@@ -188,11 +188,7 @@ Poznámka: doporučeno vytvořit build skript nebo použít Maven/Gradle pro lep
 - Pokud je potřeba převod na DB, použít migrační skript, který přečte `knihy.txt` a vytvoří odpovídající tabulky.
 
 ## Autor
-- Jméno: (uveďte své jméno zde)
-- Kontakt: (email nebo GitHub profil)
-
-Co dělat dál:
-- Pokud chcete, můžu README upravit tak, aby obsahoval konkrétní jména autorů, detailní UML diagram nebo přesné signatury metod podle zdrojového kódu. Napište, kterou úroveň detailu preferujete.
+- steprooauh
 
 ---
 
