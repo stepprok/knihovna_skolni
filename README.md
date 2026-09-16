@@ -26,6 +26,9 @@ Obsah:
    - Administrativní rozhraní pro pracovníka ke správě katalogu
    - Jednoduché perzistentní uložení bez nutnosti DB
    - Snadné spuštění v IDE i z příkazové řádky
+  
+   -    Jako student chci vyhledávat knihy, abych si je mohl půjčit
+   -    Jako pracovník chci spravovat knihy, abych věděl v jakém jsou stavu
 
 2. Uživatelské scénáře (use cases)
    - Student prohlíží katalog, vyhledává knihy, rezervuje dostupné tituly
