@@ -1,4 +1,4 @@
-# Školní knihovna — kompletní dokumentace
+# Školní knihovna a její správa
 
 Tato dokumentace popisuje projekt "Školní knihovna" od přípravy a analýzy, přes návrh a implementaci, až po provoz, údržbu a možné rozšíření. Je psaná tak, aby vývojář i uživatel rychle pochopili účel projektu, jeho strukturu a postupy práce.
 
