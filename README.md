@@ -26,21 +26,20 @@ Obsah:
    - Administrativní rozhraní pro pracovníka ke správě katalogu
    - Jednoduché perzistentní uložení bez nutnosti DB
    - Snadné spuštění v IDE i z příkazové řádky
-  
-   -    Jako student chci vyhledávat knihy, abych si je mohl půjčit
-   -    Jako pracovník chci spravovat knihy, abych věděl v jakém jsou stavu
 
-2. Uživatelské scénáře (use cases)
+(Jako student chci vyhledávat knihy, abych si je mohl půjčit. | Jako pracovník chci spravovat knihy, abych věděl v jakém jsou stavu.)
+
+3. Uživatelské scénáře (use cases)
    - Student prohlíží katalog, vyhledává knihy, rezervuje dostupné tituly
    - Pracovník přidává/maže/úpravuje záznamy, spravuje rezervace
    - Data jsou trvale uložená v textovém souboru
 
-3. Omezení a předpoklady
+4. Omezení a předpoklady
    - Jednoduché autentizační řešení (pevné heslo `admin` pro pracovníka)
    - Perzistence v plochém textovém souboru (CSV-like)
    - Single-user scénář (soubor není vyřešen pro současné víceuživatelské přístupy)
 
-4. Návrh řešení
+5. Návrh řešení
    - Swing GUI pro obě role
    - Datová třída `Kniha` s metodami pro serializaci a kontrolu expirace
    - Jednoduché CRUD operace nad kolekcí `List<Kniha>`
