@@ -96,8 +96,8 @@
 331;Hřbitovní kvítí;Jan Neruda;1858;Poezie;false;-
 133;Inferno;Dan Brown;2013;Thriller;false;-
 73;Inheritance;Christopher Paolini;2011;Fantasy;false;-
-344;Jan Hus;Josef Kajetán Tyl;1848;Drama;false;-
 316;Jan Hus;Alois Jirásek;1911;Drama;false;-
+344;Jan Hus;Josef Kajetán Tyl;1848;Drama;false;-
 318;Jan Roháč;Alois Jirásek;1914;Drama;false;-
 317;Jan Žižka;Alois Jirásek;1903;Drama;false;-
 191;Jana Eyrová;Charlotte Brontëová;1847;Román;false;-
@@ -142,8 +142,8 @@
 189;Mansfieldské panství;Jane Austen;1814;Romantika;false;-
 338;Maryša;Alois a Vilém Mrštíkové;1894;Drama;false;-
 109;Marťanská kronika;Ray Bradbury;1950;Sci-Fi;false;-
-178;Matka;Maxim Gorkij;1906;Román;false;-
 295;Matka;Karel Čapek;1938;Drama;false;-
+178;Matka;Maxim Gorkij;1906;Román;false;-
 45;Mechanický pomeranč;Anthony Burgess;1962;Dystopický román;false;-
 254;Miláček;Guy de Maupassant;1885;Román;false;-
 138;Misery;Stephen King;1987;Horor;false;-
